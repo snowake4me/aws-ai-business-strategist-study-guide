@@ -1,0 +1,29 @@
+# Results screenshots and raw OCR — verbatim AWS exam content, never commit (C1/C2)
+misses/**/*.png
+misses/**/*.jpg
+misses/**/*.jpeg
+**/*_ocr*.txt
+
+# macOS
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+._*
+
+# Thumbnails / Finder / Spotlight / Time Machine cruft
+Icon
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP/SMB shares
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apple desktop
