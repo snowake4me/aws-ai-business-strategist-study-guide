@@ -24,7 +24,9 @@ misconception: "more context means fewer missing details."
 1. **Adding more input to fix missing details.** Once the window is full, more input
    means more dropped. "Include the full history and every document" is the one
    option that makes the symptom worse. The correct move selects by relevance, which
-   is what retrieval does at the mechanism level.
+   is what retrieval does at the mechanism level. Do not key on the word *limit*; key
+   on *most relevant to the specific assessment*. Selection by relevance is the fix.
+   Blind truncation would be a distractor.
 2. **Sampling parameters for capacity symptoms.** Temperature and top-p change *which*
    tokens are chosen. They never change how much fits in or how much comes out. Any
    option offering them for a truncation or missing-detail symptom is a distractor.

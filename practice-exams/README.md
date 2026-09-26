@@ -32,7 +32,10 @@ is unreliable. Screenshot the flag state before submit, and note any pauses.
 |---|---|---|
 | AWS Official Practice Question Set | ~20 Q | Spent (90%, before the course) |
 | AWS Official Practice Exam | — | Not offered during beta |
-| Tutorials Dojo Randomized Test | 65 Q draw from 100+ | **Attempt 1 done 2026-09-26.** Section-Based mode still fresh for D1 / D2 drilling. |
+| Tutorials Dojo Randomized Test | 65 Q draw from 100+ | **Attempt 1 done 2026-09-26.** |
+| TD Section-Based D2 | 15 Q, per-question check | **Done 2026-09-26, 15/15, 0 flags.** Drill, not measurement. |
+| TD Section-Based D1 | 15 Q, per-question check | **Done 2026-09-26, 15/15, 0 flags.** Drill, not measurement. |
+| TD Section-Based D3, D4 | 15 Q each | Unspent. Not needed; both domains were 100% on attempt 1. |
 | Whizlabs free sampler | ? | Unspent |
 | Bespoke drill exam | to build | Only if a cluster survives the TD Section-Based reps |
 
@@ -41,3 +44,5 @@ is unreliable. Screenshot the flag state before submit, and note any pauses.
 | Date | # | Source | Raw | Flagged | Blind misses |
 |---|---|---|---|---|---|
 | 2026-09-26 | 01 | Tutorials Dojo Randomized | 59/65 (90.8%) | 15 (9 correct) | **0** |
+| 2026-09-26 | 02 | TD Section-Based D2 (drill mode) | 15/15 | 0 | 0 |
+| 2026-09-26 | 03 | TD Section-Based D1 (drill mode) | 15/15 | 0 | 0 |

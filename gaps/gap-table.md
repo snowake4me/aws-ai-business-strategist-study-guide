@@ -9,12 +9,12 @@ question. Increment on every re-test. Anything reaching 3 goes on the final crib
 
 | # | Cluster | Misses | Questions | Route | Hits | Status |
 |---|---|---|---|---|---|---|
-| 1 | Register over stem facts (discipline) | 4 | 9, 10, 13, 18 (all flagged; all show 0:00 on timer, cause unknown) | Eliminating-fact drill + `exam-traps.md` | 1 | 🔴 open |
-| 2 | Rules / RAG / agent boundary | 2 (+1 flagged-correct) | 13, 65, D1 #15 | Cheat card + flashcards + TD Section-Based D1 | 1 | 🔴 open |
-| 3 | GenAI levers: context window vs output tokens vs sampling | 1 | 51 | `genai-levers.md` + flashcards | 1 | 🔴 open · flagged, not blind |
-| 4 | Training vs inference vocabulary | 1 | 18 | Flashcard | 1 | 🟡 cheap |
-| 5 | Metric classes: baseline / leading / value / model (task 2.2) | 1 (+2 flagged-correct) | 10, D2 #5, D2 #6 | Flashcards + TD Section-Based D2 | 1 | 🔴 open |
-| 6 | Migration readiness: baseline load test, not pilot | 1 | 9 | Flashcard | 1 | 🟡 cheap |
+| 1 | Register over stem facts (discipline) | 4 | 9, 10, 13, 18 (all flagged; all show 0:00 on timer, cause unknown) | Eliminating-fact drill + `exam-traps.md` | 1 | 🟡 open · held on D2 section 2026-09-26 (15/15, 0 flags) |
+| 2 | Rules / RAG / agent boundary | 2 (+1 flagged-correct) | 13, 65, D1 #15 | Cheat card + flashcards + TD Section-Based D1 | 1 | 🟡 open · held both directions on D1 + D2 sections 2026-09-26 |
+| 3 | GenAI levers: context window vs output tokens vs sampling | 1 | 51 | `genai-levers.md` + flashcards | 1 | 🟡 open · held on D1 section 2026-09-26 (15/15, 0 flags; Q51 was a repeat) |
+| 4 | Training vs inference vocabulary | 1 | 18 | Flashcard | 1 | 🟡 cheap · held on D1 section 2026-09-26 |
+| 5 | Metric classes: baseline / leading / value / model (task 2.2) | 1 (+2 flagged-correct) | 10, D2 #5, D2 #6 | Flashcards + TD Section-Based D2 | 1 | 🟡 open · held on D2 section 2026-09-26 |
+| 6 | Migration readiness: baseline load test, not pilot | 1 | 9 | Flashcard | 1 | 🟡 cheap · held on D2 section 2026-09-26 |
 
 Q13 sits in clusters 1 and 2 on purpose: it was both a reading failure and a boundary
 failure.
