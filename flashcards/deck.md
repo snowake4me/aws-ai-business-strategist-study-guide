@@ -97,3 +97,12 @@ Format: **Q** → *A* · `source`
 
 **Consumption-based, instance-based, seat-based — which in-scope service is the canonical example of each?**
 → *Bedrock (tokens) · SageMaker AI (compute hours) · Amazon Quick (per user per month).* · exam guide pricing structures
+
+---
+
+## Running the deck
+
+Open `deck.html` in any browser (self-contained, no network). Pick sections, start
+shuffled, reveal with <kbd>space</kbd>, mark <kbd>1</kbd> got it or <kbd>2</kbd>
+missed, and drill the missed set again at the end. After editing this file, rebuild
+with `python3 build_deck.py`.
