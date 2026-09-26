@@ -12,7 +12,7 @@ prep (~15 h) complete; Official Practice Question Set 90% before the course
 | Time | 35 min 42 s |
 | Avg / question | **33 s** |
 | Misses | 6 |
-| **Flagged or skipped** | **15** (D1 5 · D2 5 · D3 3 · D4 2). Of these, 5 were *skipped first pass* (0:00 on the timer) and 4 of the 5 were misses; the 10 flagged-in-place went 8/10. |
+| **Flagged** | **15** (D1 5 · D2 5 · D3 3 · D4 2). None skipped. 6 of 15 flagged were wrong. Five flagged items show 0:00 on TD's timer (artifact, probably pause); four of those five are misses. |
 | **Blind misses** (unflagged + wrong) | **0** |
 
 ## By domain
@@ -52,15 +52,16 @@ them.
 ## Pacing and handling
 
 33 s per question against a real-exam budget of 2 min per question (170 min / 85 Q).
-Pacing is not a risk, and nothing was skimmed: flagged items carried 0:47 to 1:42.
+Pacing is not a risk. Flagged items with a recorded time carried 0:47 to 1:42.
 
 | Handling | Count | Correct |
 |---|---|---|
-| Skipped first pass, answered at end (0:00 on timer) | 5 | 1 |
-| Flagged, answered in place | 10 | 8 |
-| Neither | 50 | 50 |
+| Flagged | 15 | 9 |
+| Unflagged | 50 | 50 |
 
-Deferred questions were the failure mode. See `../misses/2026-09-26_themes.md`.
+Zero blind misses. Five flagged items show 0:00 on the timer; no questions were
+skipped, so this is a timer artifact (likely from pausing). Four of the five are the
+Theme 1 misses, which is a lead, not a finding. See `../misses/2026-09-26_themes.md`.
 
 ## What this attempt cannot tell us
 

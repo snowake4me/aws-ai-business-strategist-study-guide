@@ -1,15 +1,15 @@
 # Master Gap Table
 
 Baseline: 2026-09-26, 59/65 (90.8%), Tutorials Dojo Randomized, Attempt 1, after the
-Skill Builder exam prep. Flag status recovered for all domains. TD's filter merges flagged
-and skipped, but the timer separates them: 0:00 = skipped first pass.
+Skill Builder exam prep. Flag status recovered for all domains: 15 flagged, 0 skipped.
+Five flagged items show 0:00 on TD's timer; treated as an artifact (likely pause).
 
 **Hit count** = number of separate practice attempts where this pattern has cost a
 question. Increment on every re-test. Anything reaching 3 goes on the final crib sheet.
 
 | # | Cluster | Misses | Questions | Route | Hits | Status |
 |---|---|---|---|---|---|---|
-| 1 | Register over stem facts on **deferred** questions (discipline) | 4 | 9, 10, 13, 18 (skipped first pass went 1/5) | No-skip rule + re-read drill + `exam-traps.md` | 1 | 🔴 open |
+| 1 | Register over stem facts (discipline) | 4 | 9, 10, 13, 18 (all flagged; all show 0:00 on timer, cause unknown) | Eliminating-fact drill + `exam-traps.md` | 1 | 🔴 open |
 | 2 | Rules / RAG / agent boundary | 2 (+1 flagged-correct) | 13, 65, D1 #15 | Cheat card + flashcards + TD Section-Based D1 | 1 | 🔴 open |
 | 3 | GenAI levers: context window vs output tokens vs sampling | 1 | 51 | `genai-levers.md` + flashcards | 1 | 🔴 open · flagged, not blind |
 | 4 | Training vs inference vocabulary | 1 | 18 | Flashcard | 1 | 🟡 cheap |
@@ -53,7 +53,7 @@ had already eliminated.
 
 | Area | Evidence | Action |
 |---|---|---|
-| Pacing | 33 s/question vs 120 s budget; flagged items 1:03–1:42 | none |
+| Pacing | 33 s/question vs 120 s budget; timed flagged items 0:47–1:42 | none |
 | Blind misses | 0 of 6 — every miss was flagged or skipped | none; the tag is reliable, keep using it |
 | D3, D4 | 35/35, five hesitations all correct | watch-list only |
 | D3, D4 | 35/35 | none until a re-test says otherwise |

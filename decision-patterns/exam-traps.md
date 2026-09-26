@@ -30,22 +30,20 @@ Three sub-shapes worth recognizing on sight:
   an impressive-sounding fact (volume, years of data, scale) that points the other
   way. The late fact is bait. Q13.
 
-### Where it happens: on the return visit
+### A lead on when it happens
 
-TD's timer showed all four of these were **skipped on the first pass and answered at
-the end** (0:00 recorded). Five questions were deferred that way; four were missed.
-Ten questions were flagged and answered in place; eight were right. The trap fires
-when you come back cold, skim the stem, and pick on tone.
+All four of these show 0:00 on TD's per-question timer. Nothing was skipped, so the
+zeros are an artifact, probably from pausing the exam mid-question. If the pauses did
+land on these four, the trap fired on coming back cold. Unconfirmed. Test it next
+attempt by noting any interruption.
 
 ### The drill
 
-1. **Do not skip.** Answer provisionally, flag, move on. A provisional answer keeps
-   the analysis attached to the question; skipping discards it.
-2. On any return visit, **re-read the stem from the top** before looking at the
-   options.
-3. Then **name the fact in the stem that eliminates each option you reject.** If no
-   fact can be named, the choice is being made on tone. On Select-TWO, name the fact
-   that *supports* each element you accept as well.
+1. **Name the fact in the stem that eliminates each option you reject.** If no fact
+   can be named, the choice is being made on tone. On Select-TWO, name the fact that
+   *supports* each element you accept as well.
+2. After any pause or interruption, **re-read the stem from the top** before looking
+   at the options again.
 
 Costs about 20 s per question against a 120 s budget.
 
