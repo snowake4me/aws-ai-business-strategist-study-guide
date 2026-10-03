@@ -1,5 +1,26 @@
 # Practice Exams
 
+## Real exam result: PASS, 822 / 1,000
+
+Beta AB1-C01, sat 2026-09-29. Passing scaled score is 700 (scale 100 to 1,000). The
+result arrived about 12 hours after submitting, though AWS quotes up to five business
+days for beta results.
+
+| Domain | Weight | Result |
+|---|---|---|
+| 1: AI Fundamentals and Literacy | 24% | Meets Competencies |
+| 2: AI Strategy and Business Value Creation | 28% | Meets Competencies |
+| 3: AI Governance and Responsible AI Leadership | 24% | Meets Competencies |
+| 4: Business Readiness | 24% | Meets Competencies |
+
+AWS reports only two bands per domain (Needs Improvement or Meets Competencies), with
+no per-domain score, and the exam is compensatory: only the total decides pass or fail.
+
+The prep that produced it: about 15 hours of Skill Builder exam prep, 90% on the
+Official Practice Question Set, then the Tutorials Dojo runs logged below (59/65 with 0
+blind misses, then 15/15 on the D2 and D1 section drills). The beta had 85 questions in
+170 minutes, cost $50, and allowed one attempt only.
+
 One summary file per attempt: `YYYY-MM-DD_exam_NN_<source>.md`
 
 **Always record the confidence signal.** On Tutorials Dojo that is *flagged for
